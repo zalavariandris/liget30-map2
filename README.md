@@ -1,4 +1,7 @@
 liget30-map2
 ============
 
-for liget30 exhibition. An ever growing history of galleries
+created for liget30 exhibition by Réka Kenéz and András Zalavári.
+An ever growing history of galleries
+
+
